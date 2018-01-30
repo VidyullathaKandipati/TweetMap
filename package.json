@@ -1,0 +1,21 @@
+{
+  "name": "tweetmap",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "geocoder": "^0.2.3",
+    "google-map-react": "^0.29.0",
+    "google-maps-react": "^1.1.2",
+    "react": "^16.2.0",
+    "react-addons-shallow-compare": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0",
+    "react-simple-google-maps": "^0.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
